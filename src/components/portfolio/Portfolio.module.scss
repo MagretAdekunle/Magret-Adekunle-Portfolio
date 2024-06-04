@@ -1,0 +1,60 @@
+@import "../../variables.modules";
+
+.portfolio {
+  @media only screen and (min-width: 768px) {
+    margin: auto 4rem auto 4rem;
+    min-width: fit-content;
+  }
+  @media only screen and (min-width: 1024px) {
+    margin: auto 8rem auto 4rem;
+    min-width: fit-content;
+  }
+  @media only screen and (min-width: 1280px) {
+    margin: auto 10rem auto 4rem;
+    min-width: fit-content;
+  }
+  @media only screen and (min-width: 1536px) {
+    margin: auto 15rem auto 4rem;
+    min-width: fit-content;
+  }
+}
+
+.skills__skill {
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.2rem;
+  margin-right: 1.2rem;
+  font-size: 1rem;
+  background: rgba(#999, 0.2);
+  border-radius: 5px;
+  font-weight: 525;
+  color: #777;
+
+  @media only screen and (min-width: 940px) {
+    font-size: 1.2rem;
+    text-align: left;
+  }
+}
+.btn {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  font-size: 1rem;
+  color: #fff;
+  display: inline-block;
+  margin: 3rem auto 0rem auto;
+  padding: 1.5rem 2rem;
+  background: #0062b9;
+  border: 2px solid #0062b9;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
+  transition: transform .3s;
+
+  @media only screen and (min-width: 1024px) {
+    margin: 3rem auto 0rem auto;    
+    align-content: center;
+  }
+}
+
+.btn:hover {
+  transform: translateY(-3px);
+}
