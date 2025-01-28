@@ -4,7 +4,7 @@
 
 <img width="1440" alt="Screenshot 2025-01-27 at 8 28 54 PM" src="https://github.com/user-attachments/assets/1c29fc68-59ff-4a46-a437-377545aa6411" />
 
-[View Live Portfolio](https://magretadekunle.github.io)
+[View Live Portfolio](https://magretadekunle.github.io/Magret-Adekunle-Portfolio/)
 
 ## features
 
