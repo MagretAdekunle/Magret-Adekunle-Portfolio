@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Magret-Adekunle-Portfolio/static/css/main.da48b7da.css",
+    "main.js": "/Magret-Adekunle-Portfolio/static/js/main.4f128abf.js",
+    "static/media/mock2.png": "/Magret-Adekunle-Portfolio/static/media/mock2.dfc924a0eb8fe8ea7219.png",
+    "static/media/mock5.png": "/Magret-Adekunle-Portfolio/static/media/mock5.8c00cd28b3d0c3d289ac.png",
+    "static/media/mock1.png": "/Magret-Adekunle-Portfolio/static/media/mock1.0efe9d7fa838aba0ca29.png",
+    "static/media/mock3.png": "/Magret-Adekunle-Portfolio/static/media/mock3.c6608dfaa70fd4e2ea94.png",
+    "static/media/resume.pdf": "/Magret-Adekunle-Portfolio/static/media/resume.71099a418d3411b07172.pdf",
+    "static/media/self.png": "/Magret-Adekunle-Portfolio/static/media/self.b05eb0c89091dcaebfd5.png",
+    "index.html": "/Magret-Adekunle-Portfolio/index.html",
+    "main.da48b7da.css.map": "/Magret-Adekunle-Portfolio/static/css/main.da48b7da.css.map",
+    "main.4f128abf.js.map": "/Magret-Adekunle-Portfolio/static/js/main.4f128abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da48b7da.css",
+    "static/js/main.4f128abf.js"
+  ]
+}
